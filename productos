@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Productos - Estilo Urbano</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Estilo Urbano</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="productos.html">Productos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Nuestros Productos</h2>
+    <ul>
+      <li>Remeras</li>
+      <li>Camperas</li>
+      <li>Pantalones</li>
+      <li>Accesorios</li>
+    </ul>
+  </main>
+</body>
+</html>
