@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Contacto - Estilo Urbano</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Estilo Urbano</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="productos.html">Productos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Contacto</h2>
+    <p>Email: contacto@estilourbano.com</p>
+    <p>Teléfono: +598 1234 5678</p>
+  </main>
+</body>
+</html>
